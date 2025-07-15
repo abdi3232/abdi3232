@@ -1,4 +1,10 @@
 ## Hi there 👋
+About me:
+I'm a 19 year old Mathematics and Computer Science student at the University of South Africa with a passion for transforming raw data into meaningful insights. My strength lies in using Python to clean, analyze, and visualize data using Pandas, NumPy and Matplotlib. I excel at solving complex problems by applying critical thinking to break down data and turning it into practical solutions, all while maintaining high standards for quality and work ethic. What drives me most is the process of discovery optimizing a visualization and collaborating with others to solve real-world problems. I'm now eager to apply these skills in an internship where I can contribute to impactful data projects while expanding my expertise.
+
+📫 How to reach me:
+email 1: wabdinasir32@gmail.com
+email 2: wabdinasir2@gmail.com
 
 <!--
 **abdi3232/abdi3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
