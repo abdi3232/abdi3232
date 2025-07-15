@@ -6,8 +6,18 @@ My strength lies in using Python to clean, analyze, and visualize data using Pan
 What drives me most is the process of discovery optimizing a visualization and collaborating with others to solve real-world problems. 
 I'm now eager to apply these skills in an internship where I can contribute to impactful data projects while expanding my expertise.
 
+Tools:
+
+Languages: Python, c++, SQL
+
+Data Mining and Analysis: Panadas, NumPy
+
+Data Visualisation: Seaborn, Matplotlib
+
 📫 How to reach me:
+
 email 1: wabdinasir32@gmail.com
+
 email 2: wabdinasir2@gmail.com
 
 <!--
